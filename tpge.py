@@ -12,7 +12,7 @@ library (http://mcsp.wartburg.edu/zelle/python/graphics.py).
 
 INSTALLATION: Put this file somewhere where Python can see it.
 
-OVERVIEW: TPGE games function in a 640x480 window whose origin is in the
+OVERVIEW: TPGEgames function in a 640x480 window whose origin is in the
 lower left corner, and make use of the following data model:
 - A Point is a pair (X,Y) of integers where 0 <= X <= 640 and
   0 <= Y <= 480.
